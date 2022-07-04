@@ -7,6 +7,8 @@
 - commit: Save, Stage 영역의 파일들을 가지고 Commit(= Save)를 만들 수 있다.
 - push: 원격 저장소에 Commit을 업로드 한다.
 
-## Git Revert
+## Change Branch
 
-- 특정 파일의 변경 내용을 되돌리기 추가
+- Branch: 기존 내용을 유지한 채 새로운 내용을 추가하고 싶을 때 사용한다.
+- Check Out: 특정 브랜치(혹은 커밋) 으로 돌아가고 싶을 때 사용
+- SourceTree CheckOut: 브랜치 이름을 더블 클릭하는 것만으로 체크아웃 가능
